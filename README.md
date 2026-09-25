@@ -11,23 +11,21 @@
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiando **Ingeniería Informática** en la **Universidad de Sevilla**
-- 🏁 Ex Team Leader de **ARUS Andalucía Racing Team** (Formula Student), en el departamento de **Percepción y Localización**
+- 🏁 Ex Team Leader de **ARUS Andalucía Racing Team** (Formula Student), en el departamento de **Percepción**
 - 🌱 Siempre aprendiendo sobre robótica, sistemas autónomos y visión artificial
-- 💼 **Abierto a prácticas y oportunidades** en robótica, conducción autónoma y software embebido
+- 💼 **Abierto a prácticas y oportunidades** en robótica y conducción autónoma
 - 📍 Sevilla, España
 
 ## 🏎️ Experiencia
 
 ### ARUS Andalucía Racing Team — Percepción y Localización
-*Equipo de Formula Student de la Universidad de Sevilla* · [Fecha inicio] – Actualidad
+*Equipo de Formula Student de la Universidad de Sevilla* · Febrero 2024 – Septiembre 2026
 
 - Desarrollo de software de **percepción** para el vehículo autónomo del equipo [detección de conos con LiDAR]
 - Trabajo en **localización** del vehículo en pista [Graph Slam con g2o]
 - Integración de nodos y sistemas con **ROS 2 Humble** sobre **Ubuntu**
 - Trabajo en equipo multidisciplinar con control de versiones en **Git**
 - Participacion en FS Spain 2025 y FS Germany 2026
-
-<!-- Consejo: añade aquí un logro medible si lo tienes, p. ej. "reduje la latencia del pipeline de X ms a Y ms" o "participamos en FS Spain / FS Germany 20XX". A los reclutadores les encantan los números. -->
 
 ## 🛠️ Tecnologías
 
