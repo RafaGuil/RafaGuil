@@ -8,6 +8,17 @@
 
 ---
 
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumen del perfil" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes por commits" width="49%"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas" width="49%"/>
+</p>
+
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiando **Ingeniería Informática** en la **Universidad de Sevilla**
@@ -46,15 +57,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 Estadísticas
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumen del perfil" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes por commits" width="49%"/>
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas" width="49%"/>
-</p>
 
 ---
