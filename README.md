@@ -48,15 +48,4 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Lenguajes más usados"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true&theme=dark" alt="Racha de contribuciones"/>
-</p>
-
 ---
