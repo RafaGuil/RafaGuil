@@ -56,9 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true&theme=dark" alt="Racha de contribuciones"/>
 </p>
 
 ---
-
-<p align="center"><i>"Primero percibir, luego localizar, después decidir." 🏁</i></p>
